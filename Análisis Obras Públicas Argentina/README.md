@@ -10,8 +10,7 @@ El objetivo central de este EDA es **descubrir patrones**, **detectar anomalías
 
 ## Contenido del Repositorio
 
-- `notebooks/`: Contiene los notebooks Jupyter utilizados para el análisis.
-  - `Analisis_Obras_Publicas.ipynb`: Notebook de **Análisis Exploratorio de Datos (EDA)** sobre el Presupuesto y Ejecución de Obras Públicas de Argentina.
+- `Analisis_Obras_Publicas.ipynb`: Notebook de **Análisis Exploratorio de Datos (EDA)** sobre el Presupuesto y Ejecución de Obras Públicas de Argentina.
 - `data/`: Contiene los conjuntos de datos originales, como el archivo `Mapa de inversiones Argentina.csv` y el *dataset* limpio resultante.
 - `README.md`: Este archivo, que proporciona una descripción general y un resumen analítico del proyecto.
 
