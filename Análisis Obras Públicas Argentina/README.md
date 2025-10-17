@@ -79,7 +79,3 @@ Si tienes alguna pregunta, no dudes en ponerte en contacto:
 * **Email:** leandromarinovich@gmail.com
 
 ***
-
-Me he centrado en resaltar los hallazgos críticos de tu EDA y proponer pasos concretos para su optimización.
-
-¿Querés que te prepare un **esquema conceptual** de cómo se relacionarían las variables que mencionaste (monto, duración, avances) en un modelo de *Machine Learning*?
